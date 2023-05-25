@@ -13,6 +13,6 @@ Used Hilt to achieve Dependency injection</br>
 Clone project using android studio on master branch.</br>
 Screenshots:</br>
 
-![alt text](/screen1.PNG?raw=true)
-![alt text](/screen2.PNG?raw=true)
-![alt text](/screen3.PNG?raw=true)
+![alt text](/screen1.jpeg?raw=true)
+![alt text](/screen2.jpeg?raw=true)
+![alt text](/screen3.jpeg?raw=true)
